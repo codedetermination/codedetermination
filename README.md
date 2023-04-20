@@ -14,5 +14,5 @@
 <img src="https://github-profile-trophy.vercel.app/?username=codedetermination&theme=flat" alt="logo" height="120" align="center" style="margin: auto; margin-bottom: 20px;" />
 
 ## 统计编程语言使用比例
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gengyanlei&layout=compact)](https://github.com/codedetermination/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codedetermination&layout=compact)(https://github.com/codedetermination/github-readme-stats)
 '''
